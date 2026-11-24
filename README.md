@@ -15,7 +15,8 @@ Software engineer working across full-stack web development, end-to-end test aut
 
 | Project | What it does | Stack |
 |---|---|---|
-| [AlumSphere](https://github.com/priyanshu3027/AlumSphere) | AI-powered alumni networking and placement platform with role-based access and real-time chat | MongoDB, Express, React, Node.js, Socket.io, OpenAI and Gemini APIs |
+| [rov-telemetry-mcp](https://github.com/priyanshu3027/rov-telemetry-mcp) | Read-only MCP server that lets AI assistants read underwater vehicle telemetry over MAVLink, with a built-in dive simulator and 111 tests | TypeScript, Model Context Protocol, MAVLink, Vitest, GitHub Actions |
+| [AlumSphere](https://github.com/priyanshu3027/AlumSphere) | AI-powered alumni networking and placement platform with real-time chat, a Docker Compose stack and a Playwright end-to-end suite run in CI | MongoDB, Express, React, Node.js, Socket.io, Docker, Playwright, OpenAI and Gemini APIs |
 | [AI-Powered Career Tool](https://github.com/priyanshu3027/AI_Powered_Career_Tool) | Scores resumes and GitHub/LinkedIn profiles, finds skill gaps against a target role | React, Node.js, Express, MongoDB, Python NLP service (Hugging Face) |
 | [Road Accident Severity Prediction](https://github.com/priyanshu3027/Road_Accident_Severity_Prediction) | ML pipeline on India's 2017–2022 accident data, served through a Flask endpoint | Python, scikit-learn, XGBoost, Flask |
 | [PhonePe Transaction Analytics](https://github.com/priyanshu3027/PhonePe-Transaction-Analytics-Dashboard) | ETL and KPI dashboards over 300,000+ transactions and 110,000+ user records | Power BI, SQL, Power Query, DAX |
