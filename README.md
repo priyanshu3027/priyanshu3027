@@ -2,7 +2,7 @@
 
 **Software Engineer · Full-Stack (MERN) · Agentic AI · Test Automation**
 
-Software Engineering Intern at **Planys Technologies**, an IIT Madras-incubated marine robotics company in Chennai. I work on the web platform and operator control software behind underwater inspection robots (ROVs).
+Software engineer working across full-stack web development, end-to-end test automation and agentic AI workflows. I like building things that are tested, containerised and easy for the next person to run.
 
 ## What I work with
 
