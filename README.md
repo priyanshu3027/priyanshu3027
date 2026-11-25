@@ -1,6 +1,6 @@
 # Priyanshu Singh
 
-**Software Engineer · Full-Stack (MERN) · Agentic AI · Test Automation**
+**Software Engineer · Full-Stack (MERN) · Agentic AI · Automation**
 
 Software engineer working across full-stack web development, end-to-end test automation and agentic AI workflows. I like building things that are tested, containerised and easy for the next person to run.
 
